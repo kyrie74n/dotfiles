@@ -57,6 +57,7 @@
  set tags=tags
  set expandtab
  set hlsearch
+ set tabstop=4
 
  let Tlist_Ctags_Cmd = "/usr/bin/ctags"
  let Tlist_Show_One_File = 1
