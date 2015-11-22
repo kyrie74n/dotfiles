@@ -27,6 +27,7 @@
  NeoBundle 'vim-scripts/taglist.vim'
  NeoBundle 'szw/vim-tags'
  NeoBundle 'Shougo/unite.vim'
+ NeoBundle 'digitaltoad/vim-jade'
 
  " PHP IDE
  NeoBundle 'joonty/vdebug'
